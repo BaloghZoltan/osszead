@@ -1,0 +1,19 @@
+class Java {
+    public static void main(String[] args) {
+        char a = 'j';
+        char b = 'a';
+        char c = 'v';
+        char d = 'a';
+        System.out.print(a);
+        System.out.print(b);
+        System.out.print(c);
+        System.out.print(d);
+    }
+}
+
+class Osszeadas {
+	public static void main(String[] args)
+		int a=13;
+		int b=42;
+		System.out.println(a+b);
+}
